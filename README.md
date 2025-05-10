@@ -38,3 +38,42 @@ Requirement Analysis is fundamental to successful software development for sever
 2. **Ensures Stakeholder Alignment**  
    - Bridges communication gaps between business teams and developers
    - Creates a shared understanding of what the system should (and shouldn't
+## Key Activities in Requirement Analysis
+
+The requirement analysis process consists of five fundamental activities:
+
+1. **Requirement Gathering**
+   - Identifying all potential sources of requirements (stakeholders, documents, systems)
+   - Conducting interviews, surveys, and workshops with stakeholders
+   - Researching existing systems and industry standards
+
+2. **Requirement Elicitation**
+   - Extracting hidden or unstated needs through techniques like:
+     - Brainstorming sessions
+     - User observation
+     - Prototyping
+     - Use case analysis
+   - Resolving conflicts between different stakeholder requirements
+
+3. **Requirement Documentation**
+   - Creating clear, unambiguous requirement specifications
+   - Common documentation formats include:
+     - Software Requirements Specification (SRS)
+     - User stories
+     - Use cases
+     - Process flow diagrams
+   - Maintaining traceability between requirements
+
+4. **Requirement Analysis and Modeling**
+   - Analyzing requirements for completeness, consistency, and feasibility
+   - Creating models to represent requirements visually:
+     - Data flow diagrams
+     - Entity-relationship diagrams
+     - State transition diagrams
+   - Prioritizing requirements based on business value and technical constraints
+
+5. **Requirement Validation**
+   - Reviewing requirements with stakeholders for accuracy
+   - Conducting feasibility studies and risk analysis
+   - Creating test cases to verify requirements
+   - Obtaining formal approval/sign-off on requirements
