@@ -110,3 +110,22 @@ Non-functional requirements define how the system should perform - the quality a
 3. **Availability**
    - The system shall maintain 99.9% uptime during business hours (8AM-10PM local time)
    - The system shall recover from failures within 15 minutes
+## Use Case Diagrams
+
+### What is a Use Case Diagram?
+
+A Use Case Diagram is a visual representation of how users (actors) interact with a system. It outlines the system’s functionalities (use cases) and the users involved, helping identify system requirements clearly and early in the development process.
+
+### Benefits of Use Case Diagrams
+
+- Provides a high-level view of system functionality
+- Helps identify primary users and their goals
+- Improves communication between stakeholders and developers
+- Simplifies the requirement gathering process
+
+### Use Case Diagram for Booking System
+
+The diagram below illustrates a basic use case scenario for a booking system:
+![alx-booking-uc png](https://github.com/user-attachments/assets/78c8e066-5445-4a99-9931-ea4be2e43db4)
+
+
