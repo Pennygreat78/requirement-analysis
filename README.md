@@ -77,3 +77,36 @@ The requirement analysis process consists of five fundamental activities:
    - Conducting feasibility studies and risk analysis
    - Creating test cases to verify requirements
    - Obtaining formal approval/sign-off on requirements
+## Types of Requirements
+
+### Functional Requirements
+Functional requirements define what the system should do - the specific behaviors and functions it must perform.
+
+**Examples for Booking Management System:**
+1. **User Registration & Authentication**
+   - The system shall allow users to create accounts with email and password
+   - The system shall enable users to log in using their credentials
+
+2. **Property Search & Booking**
+   - The system shall allow users to search properties by location, date, and price range
+   - The system shall enable registered users to book available properties
+
+3. **Payment Processing**
+   - The system shall process credit card payments for bookings
+   - The system shall generate payment receipts
+
+### Non-Functional Requirements
+Non-functional requirements define how the system should perform - the quality attributes and constraints.
+
+**Examples for Booking Management System:**
+1. **Performance**
+   - The system shall load search results within 2 seconds for 95% of queries
+   - The booking process shall complete within 5 seconds
+
+2. **Security**
+   - The system shall encrypt all sensitive user data (payment info) using AES-256
+   - The system shall prevent brute force attacks by locking accounts after 5 failed login attempts
+
+3. **Availability**
+   - The system shall maintain 99.9% uptime during business hours (8AM-10PM local time)
+   - The system shall recover from failures within 15 minutes
