@@ -129,3 +129,29 @@ The diagram below illustrates a basic use case scenario for a booking system:
 !![alx-booking-uc png](https://github.com/user-attachments/assets/71b64bb4-89fe-4d4b-a0d3-d65a26a186b3)
 
 
+## Acceptance Criteria
+
+**What are Acceptance Criteria?**
+
+Acceptance Criteria are a set of predefined requirements that must be met for a feature or product to be considered complete and accepted by the user or client. They help ensure clarity between the development team and stakeholders by defining exactly what needs to be delivered.
+
+**Why Are Acceptance Criteria Important?**
+
+- They define the boundaries of a user story or feature.
+- Prevent misunderstandings and scope creep.
+- Guide developers and testers to meet expectations.
+- Help determine when a feature is “done.”
+
+---
+
+**Example: Acceptance Criteria for the “Checkout” Feature in a Booking Management System**
+
+**Feature:** Checkout
+
+**User Story:**  
+As a customer, I want to complete my booking and make a payment so that I can finalize my reservation.
+
+**Acceptance Criteria:**
+
+1. ✅ The checkout page must display a summary of the booking.
+2. ✅ Users must
